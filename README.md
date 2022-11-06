@@ -50,5 +50,5 @@ BOT_TOKEN - From @BotFather
     ─「 License 」─
 </h3>
 
-Distributed under MIT License. See [LICENSE]() for more information.
+Distributed Under MIT License. See [LICENSE](https://github.com/AL3X-Github/InfoBot/blob/main/LICENSE) For More Information.
  
