@@ -75,4 +75,3 @@ Distributed Under MIT License. See [LICENSE](https://github.com/AL3X-Github/Info
 
 </h6>
 </div>
-

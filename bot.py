@@ -32,7 +32,7 @@ ABOUT_TEXT = """--**About Me**--
 - **Library :** [Pyrogram v1.2.0](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)"""
 
-BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton(text="SOURCE", url=f"https://github.com/AL3x-Github/InfoBot")]])
+BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton(text="Developer", url=f"https://t.me/MaximXRobot")]])
 
 
 @Bot.on_message(filters.private & filters.command("start"))
